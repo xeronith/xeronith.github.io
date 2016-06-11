@@ -58,16 +58,16 @@ div#overlay {
 
 @media only screen and (max-width: 800px) {
     div#overlay > header {
-        width: 440px;
+        width: 300px;
         margin: 0 auto;
     }
 
         div#overlay > header > h1 {
-            font-size: 66px;
+            font-size: 46px;
             letter-spacing: -3px;
         }
 
         div#overlay > header > h2 {
-            font-size: 20px;
+            font-size: 14px;
         }
 }
